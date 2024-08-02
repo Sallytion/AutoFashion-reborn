@@ -1,6 +1,6 @@
 # AutoFashion Reborn
 
-Welcome to AutoFashion Reborn, a unique platform where you can customize your own apparel with just a few clicks!
+This is AutoFashion Reborn, a unique platform where you can customize your own apparel with just a few clicks!
 
 ## Live Demo
 
